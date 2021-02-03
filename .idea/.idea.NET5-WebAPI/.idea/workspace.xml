@@ -8,25 +8,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdba408-cbb0-4964-b77b-ebe0d603c21f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/NET5-WebAPI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/WeatherForecast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NET5-WebAPI/appsettings.json" afterDir="false" />
+    <list default="true" id="4bdba408-cbb0-4964-b77b-ebe0d603c21f" name="Default Changelist" comment="docs: create project solution">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NET5-WebAPI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +72,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612354478833</updated>
-      <workItem from="1612354484645" duration="323000" />
+      <workItem from="1612354484645" duration="632000" />
     </task>
+    <task id="LOCAL-00001" summary="docs: create project solution">
+      <created>1612355000998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612355000998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: create project solution">
+      <created>1612355017126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612355017126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +107,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="docs: create project solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: create project solution" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="339" height="2" key="GridCell.Tab.0.bottom" timestamp="1612355040156">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="339" height="2" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1612355040156" />
+    <state width="339" height="2" key="GridCell.Tab.0.center" timestamp="1612355040155">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="339" height="2" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1612355040155" />
+    <state width="339" height="2" key="GridCell.Tab.0.left" timestamp="1612355040152">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="339" height="2" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1612355040152" />
+    <state width="339" height="2" key="GridCell.Tab.0.right" timestamp="1612355040155">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="339" height="2" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1612355040155" />
   </component>
 </project>
